@@ -53,9 +53,9 @@ handler.all = async function (m) {
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/bot_whangsaf",
+            mediaUrl: "https://Instagram.com/ohlxmarket",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/bot_whangsaf", 
+            description: "https://Instagram.com/ohlxmarket", 
             title: 'Simple Bot Esm',
             body: wm,
             thumbnailUrl: pp,
@@ -69,7 +69,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6283160327945-6282350629881g.us" } : {}) 
                        },
             message: { 
                "audioMessage": {
@@ -77,14 +77,14 @@ handler.all = async function (m) {
                         "seconds": "999999999999",
                         "ptt": "true"
                                }
-                             } 
+                             }
                             }
                
                 global.ftextt = {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6283160327945-6282350629881@g.us" } : {}) 
                        },
             message: { 
                "extendedTextMessage": {
@@ -155,9 +155,9 @@ handler.all = async function (m) {
            },
            "message": {
                "groupInviteMessage": {
-                   "groupJid": "6282127487538-1625305606@g.us",
+                   "groupJid": "6283160327945-6282350629881@g.us",
                    "inviteCode": "null",
-                   "groupName": "Kawan WH MODS DEV", 
+                   "groupName": "Ohlx", 
                    "caption": wm, 
                    'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
@@ -168,7 +168,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6283160327945-6282350629881@g.us" } : {}) 
                        },
             message: { 
                         "videoMessage": { 
