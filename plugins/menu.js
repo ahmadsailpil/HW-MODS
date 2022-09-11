@@ -498,12 +498,12 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n By Wh-Mods-Dev',
+            footer: titlebot + '\n By 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙',
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: `SUBSCRIBE`,
-                        url: 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow'
+                        displayText: `Saweria`,
+                        url: 'https://linktr.ee/asepbotz'
                     }
                 },
                 {
@@ -546,7 +546,7 @@ handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
 handler.command = /^(menu|help|\?)$/i
 
-handler.register = false
+handler.register = true
 handler.exp = 3
 
 export default handler
