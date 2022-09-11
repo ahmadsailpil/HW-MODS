@@ -46,9 +46,9 @@ global.ppulsa2 = '' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '13152202542'
+global.nomorbot = '6282148819988'
 global.nomorown = '6283160327945'
-global.namebot = '𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕'
+global.namebot = '𝗢𝗛𝗟𝗫-𝗠𝗗'
 global.nameown = '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙'
 
 /*============== APIKEY SIMPEL ==============*/
@@ -111,7 +111,7 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 global.wm = '                「 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕 '
+global.wm3 = '⫹⫺ 𝗢𝗛𝗟𝗫-𝗠𝗗 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙`
@@ -189,7 +189,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕'
+global.stickpack = '𝗢𝗛𝗟𝗫-𝗠𝗗'
 global.stickauth = `By ©𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙`
 
 global.multiplier = 38 // The higher, The harder levelup
