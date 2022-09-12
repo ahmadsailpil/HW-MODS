@@ -34,7 +34,7 @@ handler.all = async function (m, { isBlocked }) {
     
     ▌│█║▌║▌║║▌║▌║█│▌
     
-    #BY WH MODS DEV`
+    #BY 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙`
     this.reply(m.chat, teks, m)
     const data = global.owner.filter(([id, isCreator]) => id && isCreator)
     this.sendContact(m.chat, data.map(([id, name]) => [id, name]), m)
