@@ -19,7 +19,9 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
 	{title: "👤 | WhiteListMyContact", rowId: `${usedPrefix + command} whitelistmycontact`},
 	{title: "❗ | Restrict", rowId: `${usedPrefix + command} restrict`},
 	{title: "😐 | Nyimak", rowId: `${usedPrefix + command} nyimak`},
-	{title: "☑️ | Autoread", rowId: `${usedPrefix + command} autoread`},
+	{title: "❗ | Antivirtex", rowId: `${usedPrefix + command} antivirtex`},   
+	{title: "❗ | Antispam", rowId: `${usedPrefix + command} Antispam`}
+	{title: "🤬 | Antibadword", rowId: `${usedPrefix + command} antibadword`},
 	{title: "💬 | PcOnly", rowId: `${usedPrefix + command} pconly`},
 	{title: "🏢 | GcOnly", rowId: `${usedPrefix + command} gconly`},
 	{title: "📷 | SwOnly", rowId: `${usedPrefix + command} swonly`},
@@ -186,13 +188,29 @@ const listMessage = {
       }
       global.opts['nyimak'] = isEnable
       break
-    case 'autoread':
+    case 'antivirtex':
       isAll = true
       if (!isROwner) {
         global.dfail('rowner', m, conn)
         throw false
       }
-      global.opts['autoread'] = isEnable
+      global.opts['antivirtex'] = isEnable
+      break
+    case 'antibadword':
+      isAll = true
+      if (!isROwner) {
+        global.dfail('rowner', m, conn)
+        throw false
+      }
+      global.opts['antibadword'] = isEnable
+      break
+          case 'antispam':
+      isAll = true
+      if (!isROwner) {
+        global.dfail('rowner', m, conn)
+        throw false
+      }
+      global.opts['antispam'] = isEnable
       break
     case 'pconly':
     case 'privateonly':
