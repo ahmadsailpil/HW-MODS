@@ -220,7 +220,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	rows: [
 	    {title: `⚡ ${pmenus} SPEED BOT`, rowId: ".speed", description: "Menampilkan kecepatan respon BOT"},
 	    {title: `💌 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner BOT"},
-	    {title: `📔 ${pmenus} BUY/SELL DIAMOND LOCK GT`, rowId: ".gt", description: `Source Code ${namebot}`},
+	    {title: `📔 ${pmenus} BUY/SELL DIAMOND LOCK GT`, rowId: ".gt", description: "BUY/SELL DL"},
 	]
     },{
 	title: `${htki} SUPPORT ${htka}`,
