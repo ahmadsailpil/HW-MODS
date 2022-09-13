@@ -13,7 +13,7 @@ let pp = '17.400'
 let pv = '23.200'
 let ppm = '29.000'
 let info = `
-╭━━━━「 *SEWA* 」
+╭━━━━「 *Harga Buy DL* 」
 ┊⫹⫺ *1 DL:* _${sh}Rp_
 ┊⫹⫺ *2 DL:* _${sn}Rp_
 ┊⫹⫺ *3 DL:* _${ss}Rp_
@@ -21,7 +21,7 @@ let info = `
 ┊⫹⫺ *5 DL:* = _${sv}Rp_
 ╰═┅═━––––––๑
 
-╭━━━━「 *PREMIUM* 」
+╭━━━━「 *Harga Jual DL* 」
 ┊⫹⫺ *1 DL:* _${ph}Rp_
 ┊⫹⫺ *2 DL:* _${pn}Rp_
 ┊⫹⫺ *3 DL:* _${pp}Rp_
