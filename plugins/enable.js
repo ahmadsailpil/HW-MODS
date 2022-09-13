@@ -19,9 +19,9 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
 	{title: "👤 | WhiteListMyContact", rowId: `${usedPrefix + command} whitelistmycontact`},
 	{title: "❗ | Restrict", rowId: `${usedPrefix + command} restrict`},
 	{title: "😐 | Nyimak", rowId: `${usedPrefix + command} nyimak`},
-	{title: "❗ | Antivirtex", rowId: `${usedPrefix + command} antivirtex`},   
-	{title: "❗ | Antispam", rowId: `${usedPrefix + command} Antispam`}
+	{title: "❗ | Antivirtex", rowId: `${usedPrefix + command} antivirtex`}, 
 	{title: "🤬 | Antibadword", rowId: `${usedPrefix + command} antibadword`},
+	{title: "❗ | Antispam", rowId: `${usedPrefix + command} antispam`}, 
 	{title: "💬 | PcOnly", rowId: `${usedPrefix + command} pconly`},
 	{title: "🏢 | GcOnly", rowId: `${usedPrefix + command} gconly`},
 	{title: "📷 | SwOnly", rowId: `${usedPrefix + command} swonly`},
