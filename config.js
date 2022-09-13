@@ -119,11 +119,11 @@ global.author = '                「 𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙  あ�
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg'
+global.thumb = 'https://i.ibb.co/f9gyxCx/20220911-215231.png' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/f9gyxCx/20220911-215231.png'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg']
-global.fla = 'https://telegra.ph/file/5cd3cc7381bce4a4a65ec.jpg'
+global.thumbs = ['https://i.ibb.co/f9gyxCx/20220911-215231.png']
+global.fla = 'https://i.ibb.co/f9gyxCx/20220911-215231.png'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
