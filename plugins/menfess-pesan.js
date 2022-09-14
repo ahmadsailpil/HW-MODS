@@ -45,4 +45,5 @@ handler.command = /^(menfess|confess|menfes|confes)$/i
 
 handler.limit = true
 handler.private = true
+handler.premium = true
 export default handler
