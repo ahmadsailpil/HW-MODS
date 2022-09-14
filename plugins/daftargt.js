@@ -30,9 +30,9 @@ let info = `
 ╰═┅═━––––––๑
 
 *⫹⫺ PAYMENT:*
-• *Dana:* [${pdana}]
-• *Gopay:* [${pgopay}]
-• *Ovo:* [${povo}]
+• *Dana:* 
+• *Gopay:* 
+• *Ovo:* 
 
 –––––– *🐾 Kebijakan* ––––––
 
@@ -76,6 +76,6 @@ await conn.sendMessage(m.chat, listMessage)
 
 handler.help = ['buydl', 'selldl']
 handler.tags = ['info']
-handler.command = /^(buy(dl)?|gt)$/i
+handler.command = /^(buydl)?|gt)$/i
 
 export default handler
