@@ -60,8 +60,8 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 global.owner = [
   ['6283848128003', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', true],
   ['6283848128003', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', true],
-  ['6283160327945', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', false],
-  ['6283160327945', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', false] //Ganti jd nomormu sama Namamu
+  ['6283160327945', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', true],
+  ['6283160327945', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
