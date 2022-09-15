@@ -39,7 +39,7 @@ Contoh: .menfess 628xxxxxxxxxx|hai owner`
     conn.reply(m.chat, logs, m)
 }
 handler.help = ['menfess nomor|pesan']
-handler.tags = ['nocategory']
+handler.tags = ['premium']
 
 handler.command = /^(menfess|confess|menfes|confes)$/i
 
