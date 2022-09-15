@@ -33,6 +33,7 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
     let logs = `[!] Berhasil mengirim pesan wa ke id grup ${korban}`
     conn.reply(m.chat, logs, m)
 }}
+handler.help = ['owner']
 handler.command = /^(gcpesan|gcbalas)$/i
 handler.owner = true
 handler.premium = false
