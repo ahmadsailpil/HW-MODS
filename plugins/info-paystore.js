@@ -1,10 +1,10 @@
 let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
-let sh = '5'
-let sn = '10'
-let ss = '20'
-let sp = '35'
+let sh = '2'
+let sn = '5'
+let ss = '10'
+let sp = '20'
 let sv = '50'
 //premium
 let ph = '5'
@@ -14,11 +14,10 @@ let pv = '35'
 let ppm = '40'
 let info = `
 ╭━━━━「 *SEWA* 」
-┊⫹⫺ *Hemat:* _${sh}k/grup (15 Hari)_
-┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_
-┊⫹⫺ *Standar:* _${ss}k/grup (2 bulan)_
-┊⫹⫺ *Pro:* _${sp}k/grup (4 bulan)_                                                      
-┊⫹⫺ *Vip:* = _${sv}k/grup (12 bulan)_
+┊⫹⫺ *Hemat:* _${sh}k/grup (10 Hari)_
+┊⫹⫺ *Normal:* _${sn}k/grup (14 Hari)_
+┊⫹⫺ *Standar:* _${ss}k/grup (19 hari)_
+┊⫹⫺ *Pro:* _${sp}k/grup (1 bulan)_                                                      
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
