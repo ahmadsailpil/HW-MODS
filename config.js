@@ -37,19 +37,19 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCI0e4GqmeLZhy8KE8c9JPsw' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '083848128003' //dana
-global.povo = '083848128003' //ovo
-global.pgopay = '6283160327945' //gopay
+global.pdana = '088210366265' //dana
+global.povo = '' //ovo
+global.pgopay = '' //gopay
 global.plinkaja = 'xxxx' //link aja
-global.ppulsa = '083848128003' //telkomsel
+global.ppulsa = '088210366265' //telkomsel
 global.ppulsa2 = '' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282148819988'
-global.nomorown = '6283160327945'
-global.namebot = '𝗢𝗛𝗟𝗫-𝗠𝗗'
-global.nameown = '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙'
+global.nomorbot = '6283805945752'
+global.nomorown = '6283805945752'
+global.namebot = 'SANZ-𝗠𝗗'
+global.nameown = 'SANZ 𝐆𝐀𝐍𝐙'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283848128003', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', true],
-  ['6283848128003', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', true],
-  ['6283160327945', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', true],
-  ['6283160327945', '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙', true] //Ganti jd nomormu sama Namamu
+  ['6283805945752', 'SANZ 𝐆𝐀𝐍𝐙', true],
+  ['6283805945752', 'SANZ 𝐆𝐀𝐍𝐙', true],
+  ['6283805945752', 'SANZ 𝐆𝐀𝐍𝐙', true],
+  ['6283805945752', 'SANZ 𝐆𝐀𝐍𝐙', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
